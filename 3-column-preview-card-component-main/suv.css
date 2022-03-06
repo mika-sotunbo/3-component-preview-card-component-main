@@ -1,0 +1,99 @@
+body {
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 1em;
+}
+.container {
+  /* border:  ; */
+  display: flex;
+  height: 70vh;
+  width: 50vw;
+  min-width: 400px;
+  /* margin-top: 5rem;
+    margin-left: 20rem;
+    margin-bottom: ; */
+  margin: 5rem 10rem 0 20rem;
+  border-radius: 1em;
+}
+.items {
+ 
+}
+.content {
+  margin: 1rem;
+}
+.t1 {
+  background-color: hsl(31, 77%, 52%);
+}
+.t2 {
+  background-color: hsl(184, 100%, 22%);
+}
+.t3 {
+  background-color: hsl(179, 100%, 13%);
+}
+.btn {
+  /* border:  ; */
+  border-radius: 30px;
+  background-color: white;
+  padding: 0.7em;
+  font-weight: 400;
+  /* margin-top: 10%; */
+}
+#btn1 {
+  margin-top: 7em;
+}
+.t1 a {
+  text-decoration: none;
+  color: hsl(31, 77%, 52%);
+}
+.t2 a {
+  text-decoration: none;
+  color: hsl(184, 100%, 22%);
+}
+.t3 a {
+  text-decoration: none;
+  color: hsl(179, 100%, 13%);
+}
+h1,
+p {
+  color: white;
+}
+a:hover {
+  background-color: inherit;
+  border: 1px dashed white;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+@media  screen and (max-width: 55em) {
+  .container{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+  }
+  #btn1{
+    margin: 1em;
+    display: flex
+  }
+  .attribution{
+    margin-top: 60em;
+  }
+}
+@media  screen and (max-width: 70em) {
+  .container{
+    display: flex;
+    /* flex-direction: ; */
+    margin: auto;
+  }
+  #btn1{
+    margin: 0.4em;
+    display: flex;
+    font-size: 12px;
+  }
+  .attribution{
+    margin-top: 60em;
+    
+  }
+}

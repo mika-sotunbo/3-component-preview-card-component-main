@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg36632" viewBox="0 0 315.6 261.47" version="1.0">
+  <defs id="defs3">
+    <linearGradient id="linearGradient37410" y2="194.78" gradientUnits="userSpaceOnUse" y1="470.89" gradientTransform="matrix(1.0989 0 0 .91001 -254 -142)" x2="401.23" x1="406.79">
+      <stop id="stop37406" stop-color="#3f86ff" offset="0"/>
+      <stop id="stop37412" stop-color="#9fe1ff" offset=".38"/>
+      <stop id="stop37408" stop-color="#fff" offset="1"/>
+    </linearGradient>
+  </defs>
+  <g id="layer1" transform="translate(-32.162 -29.123)">
+    <rect id="rect36642" stroke-linejoin="round" rx="23.033" ry="23.033" height="260.27" width="314.4" stroke="#007cdb" stroke-linecap="round" y="29.723" x="32.762" stroke-width="1.2" fill="url(#linearGradient37410)"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>container for other icons</dc:title>
+        <dc:date>2008-02-05T01:12:53</dc:date>
+        <dc:description>background, background, clip art, clipart, container, container, gradient, gradient, icon, icon, image, media, png, public domain, shape, shape, svg, </dc:description>
+        <dc:source>http://openclipart.org/detail/12719/container-for-other-icons-by-anonymous-12719</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Anonymous</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>background</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>container</rdf:li>
+            <rdf:li>gradient</rdf:li>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>image</rdf:li>
+            <rdf:li>media</rdf:li>
+            <rdf:li>png</rdf:li>
+            <rdf:li>public domain</rdf:li>
+            <rdf:li>shape</rdf:li>
+            <rdf:li>svg</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
